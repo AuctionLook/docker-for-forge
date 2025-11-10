@@ -1,6 +1,6 @@
 <?php
 
-namespace Ijpatricio\DockerForForge\Commands;
+namespace AuctionLook\DockerForForge\Commands;
 
 use Illuminate\Console\Command;
 use Illuminate\Support\Facades\Blade;

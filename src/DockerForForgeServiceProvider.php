@@ -1,8 +1,8 @@
 <?php
 
-namespace Ijpatricio\DockerForForge;
+namespace AuctionLook\DockerForForge;
 
-use Ijpatricio\DockerForForge\Commands\InstallCommand;
+use AuctionLook\DockerForForge\Commands\InstallCommand;
 use Illuminate\Support\ServiceProvider;
 
 class DockerForForgeServiceProvider extends ServiceProvider

@@ -1,6 +1,6 @@
 Prepare your repo locally
 ```
-composer require ijpatricio/docker-for-forge --dev
+composer require auctionlook/docker-for-forge --dev
 php artisan dockerEnv:install
 ```
 
